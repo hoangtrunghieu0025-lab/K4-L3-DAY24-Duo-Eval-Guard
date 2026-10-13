@@ -8,7 +8,7 @@ Trưởng nhóm/người nộp: Hoàng Trung Hiếu - 2A202602945
 
 Ngày lab/deadline áp dụng: 23:59 (13/10/2026) — Asia/Ho_Chi_Minh (UTC+07:00)
 
-Commit dùng để chấm: d98f9b4
+Commit dùng để chấm: ea27c5c
 
 Mỗi nhóm nộp một repo. Điền đủ thành viên và một mục INDIVIDUAL cho từng người.
 Thêm/xóa rows để khớp nhóm thật; mẫu ba rows không ép nhóm phải có ba người.
